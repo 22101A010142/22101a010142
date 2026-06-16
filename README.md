@@ -26,7 +26,7 @@
 - 🌱 Currently learning **Java Full Stack Development**
 - 👨‍💻 All of my projects are available on GitHub
 - 💬 Ask me about **Java, Python, SQL**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **siddhurocky292@gmail.com**
 - ⚡ Fun fact: I love building solutions using AI.
 
 ---
