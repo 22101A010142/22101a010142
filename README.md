@@ -18,3 +18,50 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=22101a010142&show_icons=true&locale=en" alt="22101a010142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=22101a010142&" alt="22101a010142" /></p>
+<h1 align="center">Hi 👋, I'm Siddhu Vinay Reddy Singh Rajputra</h1>
+<h3 align="center">Final Year B.Tech CSE (AI & ML) Student from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌱 Currently learning **Java Full Stack Development**
+- 👨‍💻 All of my projects are available on GitHub
+- 💬 Ask me about **Java, Python, SQL**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: I love building solutions using AI.
+
+---
+
+### 🛠 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🎬 Movie Ticket Watch
+- 🚗 Road Accident Detection and Alert System Using Deep Learning
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=22101A010142&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=22101A010142&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=22101A010142&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=22101A010142&theme=onedark)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=22101A010142&theme=react-dark)
